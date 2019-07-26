@@ -1,0 +1,21 @@
+{
+  "name": "in-a-state",
+  "version": "1.0.2",
+  "description": "pragmatic state",
+  "main": "build/index.js",
+  "author": "David Alsh",
+  "license": "MIT",
+  "scripts": {
+    "start": "npm run build",
+    "build": "npx tsc"
+  },
+  "peerDependencies": {
+    "react": "^16.7.0-alpha.0"
+  },
+  "devDependencies": {
+    "@types/react": "^16.8.23",
+    "parcel-bundler": "^1.12.3",
+    "react": "^16.7.0-alpha.0",
+    "typescript": "^3.5.3"
+  }
+}

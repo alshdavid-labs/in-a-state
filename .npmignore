@@ -1,0 +1,10 @@
+src
+test
+babel.config.js
+demo-dist
+node_modules
+.cache
+demo
+src
+.git
+.gitignore
